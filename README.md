@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Cryptography**
 
-- 📫 How to reach me **ben.jordan@icloud.com**
+- 📫 How to reach me **Ben.Jordan.Developer@gmail.com**
 
 - ⚡ Fun fact **I play guitar, mainly classic rock music**
 
