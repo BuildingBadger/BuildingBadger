@@ -10,9 +10,11 @@
 
 - 📫 How to reach me **Ben.Jordan.Developer@gmail.com**
 
-- ⚡ Fun fact **I play guitar, mainly classic rock music**
-
 - 👨‍💻 All of my projects are available at **[https://github.com/BuildingBadger](https://github.com/BuildingBadger)**
+
+- ⚡ Hobbies **I play guitar, mainly classic rock music**
+
+- 🏔️ Fun Fact **I fell off a cliff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
