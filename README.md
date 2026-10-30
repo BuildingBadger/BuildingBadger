@@ -9,9 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BuildingBadger](https://github.com/BuildingBadger)
 
-- 💬 Ask me about **Classic rock music**
+- 💬 Ask me about **Cryptography**
 
 - 📫 How to reach me **ben.jordan@icloud.com**
+
+- ⚡️ Hobbies **Playing electric guitar**
+
+- 🏔️ Fun Fact **I fell off a cliff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
